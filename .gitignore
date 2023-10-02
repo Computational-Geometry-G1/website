@@ -49,6 +49,7 @@ build-iPhoneSimulator/
 
 ## Environment normalization:
 /.bundle/
+/.bundle-cache/
 /vendor/bundle
 /lib/bundler/man/
 
