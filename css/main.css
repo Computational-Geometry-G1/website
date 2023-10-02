@@ -2778,14 +2778,20 @@ html.no-csstransitions .home-content__main {
 
 .video-bg {
   z-index: 1;
-  overflow: hidden;
   height: 62.4rem;
-  margin-top: calc((62.4rem/2) * -1);
-  background-image: url(../images/video-bg-2400.jpg);
+  margin-top: calc((22.4rem/2) * -1);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
   position: relative;
+}
+
+iframe.video-bg { /*[src="https://www.youtube-nocookie.com/embed/Jd3-eiid-Uw?si=z82CbUy2rWdVLeMN&amp;start=155"]*/
+  width: 100%;
+  height: calc(70vw*.42);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .video-bg .shadow-overlay {
