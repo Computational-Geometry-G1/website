@@ -3414,8 +3414,8 @@ iframe.video-bg { /*[src="https://www.youtube-nocookie.com/embed/Jd3-eiid-Uw?si=
  *
  * ------------------------------------------------------------------- */
 .s-pricing {
-  padding-top: 19.2rem;
-  padding-bottom: 16rem;
+  /* padding-top: 19.2rem;
+  padding-bottom: 16rem; */
   background-color: #ffffff;
   position: relative;
 }
@@ -3600,7 +3600,7 @@ iframe.video-bg { /*[src="https://www.youtube-nocookie.com/embed/Jd3-eiid-Uw?si=
  *
  * ------------------------------------------------------------------- */
 .s-download {
-  padding-top: 18.4rem;
+  /* padding-top: 18.4rem; */
   background-color: #5b4f96;
   color: rgba(255, 255, 255, 0.8);
   overflow: hidden;
@@ -3713,7 +3713,7 @@ iframe.video-bg { /*[src="https://www.youtube-nocookie.com/embed/Jd3-eiid-Uw?si=
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-  padding-top: 18.4rem;
+  /* padding-top: 18.4rem; */
   padding-bottom: 4.8rem;
   color: rgba(255, 255, 255, 0.4);
   position: relative;
