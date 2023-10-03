@@ -3,7 +3,7 @@
 # Create development environment using a Docker container
 #
 
-JEKYLL_VERSION="4.2.2"
+JEKYLL_VERSION="4.1.0"
 
 # Ensure _site directory is created for Jekyll engine
 if [ ! -d ./_site ]; then
