@@ -2788,7 +2788,6 @@ html.no-csstransitions .home-content__main {
 
 iframe.video-bg { /*[src="https://www.youtube-nocookie.com/embed/Jd3-eiid-Uw?si=z82CbUy2rWdVLeMN&amp;start=155"]*/
   width: 100%;
-  height: calc(70vw*.42);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
