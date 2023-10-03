@@ -2937,8 +2937,8 @@ iframe.video-bg { /*[src="https://www.youtube-nocookie.com/embed/Jd3-eiid-Uw?si=
   font-family: "Chivo", sans-serif;
   font-size: 2rem;
   font-weight: 700;
-  content: counter(ctr);
-  counter-increment: ctr;
+  content: "";
+  /* counter-increment: ctr; */
   color: #ffffff;
   height: 54px;
   width: 54px;
