@@ -3162,7 +3162,7 @@ iframe.video-bg { /*[src="https://www.youtube-nocookie.com/embed/Jd3-eiid-Uw?si=
  *
  * ------------------------------------------------------------------- */
 .s-features {
-  padding-top: 19.2rem;
+  /* padding-top: 19.2rem; */
   padding-bottom: 20rem;
   background-color: #eaeaea;
   overflow: hidden;
